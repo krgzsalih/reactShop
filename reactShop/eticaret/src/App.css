@@ -1,0 +1,34 @@
+.App{
+    background-color: black !important;
+    text-align: center;
+
+}
+
+.tablom{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100;
+    align-items: flex-start;
+    padding: 5px;
+    background-color: aqua;
+}
+
+.dB{
+    background-color:blueviolet;
+    width: 200px;
+    height: 200px;
+}
+
+.kartim{
+    margin:5px;
+
+    
+}
+
+
+
+.ui.card {
+    margin:5px!important
+}
+

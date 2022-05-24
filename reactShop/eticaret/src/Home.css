@@ -1,0 +1,17 @@
+.home{
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;    
+    background-color: blueviolet;
+}
+
+.homerow{
+    display: flex;
+    z-index: 1;    
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100vw;
+    align-items: flex-start;
+    padding: 5px;
+    background-color: aqua;
+}

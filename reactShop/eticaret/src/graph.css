@@ -1,0 +1,11 @@
+.body {
+    margin: 0;
+  }
+.container {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 900px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+  }
